@@ -1,6 +1,6 @@
-##Getting and Cleaning Data
+## Getting and Cleaning Data
 
-#Contents
+# Contents
 
 This repo contains 2 following files.
 
